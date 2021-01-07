@@ -6,7 +6,8 @@ An Armstrong number is a number that is the sum of its own digits each raised to
     10 is not an Armstrong number, because 10 != 1^2 + 0^2 = 1
     153 is an Armstrong number, because: 153 = 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153
     
-For more information on this subject, refer to the following link: https://en.wikipedia.org/wiki/Narcissistic_number
+For more information on this subject, refer to the following  [this link](https://en.wikipedia.org/wiki/Narcissistic_number).
+ 
 
 ## How this program works:
 
@@ -32,3 +33,5 @@ Makes ANSI escape character sequences (for producing colored terminal text and c
 
 ANSI escape character sequences have long been used to produce colored terminal text and cursor positioning on Unix and Macs. Colorama makes this work on Windows, too, by wrapping stdout, stripping ANSI sequences it finds (which would appear as gobbledygook in the output), and converting them into the appropriate win32 calls to modify the state of the terminal. On other platforms, Colorama does nothing.
 
+This project is for fun only
+=============================
